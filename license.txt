@@ -1,0 +1,74 @@
+
+LICENSE AGREEMENT
+
+    This License applies to software supplied in either source
+code or object code form ("Product"). The Product is licensed,
+not sold. By installing, copying, or otherwise using the
+Product, you agree to be bound by the terms of this License.
+
+GRANT OF LICENSE
+
+The License grants you the right to use the Product for the purposes 
+of evaluating, designing, developing, and testing software products,
+provided that you agree to indemnify, hold harmless, and defend the 
+supplier of the Product from and against any claims or lawsuits, 
+including attorney's fees, that arise or result from the use or 
+distribution of your software product.
+
+COPYRIGHT
+
+    The Product is protected by copyright and other intellectual
+property laws and treaties.
+
+MISCELLANEOUS
+
+    This License Agreement is governed by the laws of the State
+of Virginia. Any action or suit relating to this License may be 
+brought only in the courts of Virginia.
+
+DISCLAIMER OF  WARRANTIES
+
+    To the maximum extent permitted by applicable law, the
+supplier of the Product provides the Product AS IS AND WITH ALL
+FAULTS, and hereby disclaims all warranties and conditions,
+either express, implied or statutory, including, but not limited
+to, any implied warranties or conditions of merchantability, of
+fitness for a particular purpose, of lack of viruses, of
+results, and of lack of negligence or lack of workmanlike
+effort, all with regard to the Product. ALSO, THERE IS NO
+WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET
+POSSESSION, CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT,
+WITH REGARD TO THE PRODUCT. THE ENTIRE RISK AS TO THE QUALITY
+OF OR ARISING OUT OF USE OR PERFORMANCE OF THE PRODUCT REMAINS
+WITH YOU.
+
+EXCLUSION OF INCIDENTAL, CONSEQUENTIAL, AND OTHER DAMAGES
+
+    To the maximum extent permitted by applicable law, in no
+event shall the supplier of the Product be liable for any
+special, incidental, indirect, or consequential damages
+whatsoever (including, but not limited to, damages for loss of
+profits or confidential or other information, for business
+interruption, for personal injury, for loss of privacy, for
+failure to meet any duty including of good faith or of
+reasonable care, for negligence, and for any other loss
+whatsoever) arising out of or in any way related to the use of
+or inability to use the Product, or otherwise under or in
+connection with any provision of this agreement, even in the
+event of the fault, tort (including negligence), strict
+liability, breach of contract or breach of warranty of the
+supplier of the Product, and even if the supplier of the Product
+has been advised of the possibility of such damages.
+
+LIMITATION OF LIABILITY AND REMEDIES
+
+    Notwithstanding any damages that you might incur for any
+reason whatsoever (including, without limitation, all damages
+referenced above and all direct or general damages), the entire
+liability of the supplier of the Product under any provision of
+this Agreement and your exclusive remedy for all of the
+foregoing shall be limited to the greater of the amount actually
+paid by you for the Product or U.S. $5.00.  The foregoing
+limitations, exclusions and disclaimers shall apply to the
+maximum extent permitted by applicable law, even if any remedy
+fails its essential purpose.
